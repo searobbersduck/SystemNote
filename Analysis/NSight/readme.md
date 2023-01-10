@@ -251,4 +251,11 @@
    - [ ] 需要详细看一下文档: [TODO]
 
 
+<br>
+
+## [使用 NVIDIA Nsight Developer Tools 提升优化、调试和性能调整](https://developer.nvidia.com/zh-cn/blog/uplifting-optimizations-debugging-and-performance-tuning-with-nvidia-nsight-developer-tools/)
+
+
+
+
 
