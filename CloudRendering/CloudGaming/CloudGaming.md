@@ -8,7 +8,7 @@
 6. nvidia gpu的grid和mig的区别是什么？
 7. H264/H265、VP9、AV1编码算法？
 8. 什么是云原生？
-9. 
+9. [什么是Nvidia GeForce Now，它是免费的吗？它可以与哪些设备一起使用？](https://0xzx.com/2021031823531273633.html)
 
 ## 资料整理
 
@@ -192,3 +192,19 @@
 <br>
 
 ### 10.[技术解码 | 云游戏实现技术解析](https://cloud.tencent.com/developer/article/1700745)
+
+
+<br>
+
+### 11.[云游戏基础架构概览](https://cloud.google.com/architecture/cloud-game-infrastructure?hl=zh-cn)
+
+
+<br>
+
+### 12.[Cloud video games have a rocky history, but could have a bright future](https://fortune.com/2022/11/04/cloud-video-games-future-stadia-xbox-microsoft-google-sony/)
+
+
+<br>
+
+### 13.[2023年中国云游戏行业全景图谱](https://www.qianzhan.com/analyst/detail/220/221223-31ec4432.html)
+  * 和之前很多内容有重合。
