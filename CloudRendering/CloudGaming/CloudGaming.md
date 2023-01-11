@@ -1,4 +1,22 @@
-## 常见术语及解释
+<!-- vscode-markdown-toc -->
+* 1. [常见术语及解释](#)
+* 2. [资料整理](#-1)
+	* 2.1. [1. [云游戏关键技术研究报告(2020年)](http://qccdata.qichacha.com/ReportData/PDF/c3a22a01eb69df48243798e565b84d11.pdf)](#http:qccdata.qichacha.comReportDataPDFc3a22a01eb69df48243798e565b84d11.pdf)
+	* 2.2. [2. [云游戏发展到哪一步了？能玩，但还不够 【笔吧】](https://www.bilibili.com/video/BV1qg411p7fK/?spm_id_from=333.337.search-card.all.click&vd_source=2ef7e92f2d522c31939f486aea77a19e)](#https:www.bilibili.comvideoBV1qg411p7fKspm_id_from333.337.search-card.all.clickvd_source2ef7e92f2d522c31939f486aea77a19e)
+	* 2.3. [3. [开国元老都倒闭了，云游戏的未来到底在哪里？](https://www.bilibili.com/video/BV12e4y1E7Wa/?spm_id_from=333.337.search-card.all.click&vd_source=2ef7e92f2d522c31939f486aea77a19e)](#https:www.bilibili.comvideoBV12e4y1E7Waspm_id_from333.337.search-card.all.clickvd_source2ef7e92f2d522c31939f486aea77a19e)
+	* 2.4. [4. [云游戏白皮书 (HUAWEI & 顺网科技) (2019.12)](https://www-file.huawei.com/-/media/corporate/pdf/ilab/2019/cloud_game_whitepaper.pdf)](#HUAWEI2019.12https:www-file.huawei.com-mediacorporatepdfilab2019cloud_game_whitepaper.pdf)
+	* 2.5. [5.[全球云游戏产业深度观察及趋势研判研究报告 (2022年)](https://pdf.dfcfw.com/pdf/H3_AP202203181553448373_1.pdf?1647636501000.pdf)](#https:pdf.dfcfw.compdfH3_AP202203181553448373_1.pdf1647636501000.pdf)
+	* 2.6. [6. [云游戏报告：2022年中国云游戏市场规模45亿元，月活用户达9600万](http://www.gamelook.com.cn/2023/01/506925)](#http:www.gamelook.com.cn202301506925)
+	* 2.7. [7. [2022年中国云游戏行业研究报告](https://36kr.com/p/2004935525322886)](#https:36kr.comp2004935525322886)
+	* 2.8. [8. [云游戏技术的过去、现在，和未来](https://imgtec.eetrend.com/blog/2021/100114350.html)](#https:imgtec.eetrend.comblog2021100114350.html)
+	* 2.9. [9.[揭秘 Meta 的云游戏基础设施](https://www.infoq.cn/article/oi5qfvo5nuchezscpaib)](#Metahttps:www.infoq.cnarticleoi5qfvo5nuchezscpaib)
+	* 2.10. [10.[技术解码 | 云游戏实现技术解析](https://cloud.tencent.com/developer/article/1700745)](#https:cloud.tencent.comdeveloperarticle1700745)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->##  1. <a name=''></a>常见术语及解释
 
 1. 视频编码技术：H.264, H.265, H.266是什么？
 2. 云游戏现在的付费模式是什么？
@@ -10,11 +28,11 @@
 8. 什么是云原生？
 9. 
 
-## 资料整理
+##  2. <a name='-1'></a>资料整理
 
 <br>
 
-### 1. [云游戏关键技术研究报告(2020年)](http://qccdata.qichacha.com/ReportData/PDF/c3a22a01eb69df48243798e565b84d11.pdf)
+###  2.1. <a name='http:qccdata.qichacha.comReportDataPDFc3a22a01eb69df48243798e565b84d11.pdf'></a>1. [云游戏关键技术研究报告(2020年)](http://qccdata.qichacha.com/ReportData/PDF/c3a22a01eb69df48243798e565b84d11.pdf)
    * 来源：中国信息通信研究院和5G云游戏产业联盟
    * 由于云游戏技术架构可复用于其他高算力、大视频流交互场景，未来有望打破场景界限，实现技术资源复用，创造出更多更新的需求和体验
    * 技术发展历程 
@@ -95,7 +113,7 @@
 
 <br>
 
-### 2. [云游戏发展到哪一步了？能玩，但还不够 【笔吧】](https://www.bilibili.com/video/BV1qg411p7fK/?spm_id_from=333.337.search-card.all.click&vd_source=2ef7e92f2d522c31939f486aea77a19e)
+###  2.2. <a name='https:www.bilibili.comvideoBV1qg411p7fKspm_id_from333.337.search-card.all.clickvd_source2ef7e92f2d522c31939f486aea77a19e'></a>2. [云游戏发展到哪一步了？能玩，但还不够 【笔吧】](https://www.bilibili.com/video/BV1qg411p7fK/?spm_id_from=333.337.search-card.all.click&vd_source=2ef7e92f2d522c31939f486aea77a19e)
   * 对比了
     * 顺网云
     * 菜机云
@@ -111,13 +129,13 @@
 
 <br>
 
-### 3. [开国元老都倒闭了，云游戏的未来到底在哪里？](https://www.bilibili.com/video/BV12e4y1E7Wa/?spm_id_from=333.337.search-card.all.click&vd_source=2ef7e92f2d522c31939f486aea77a19e)
+###  2.3. <a name='https:www.bilibili.comvideoBV12e4y1E7Waspm_id_from333.337.search-card.all.clickvd_source2ef7e92f2d522c31939f486aea77a19e'></a>3. [开国元老都倒闭了，云游戏的未来到底在哪里？](https://www.bilibili.com/video/BV12e4y1E7Wa/?spm_id_from=333.337.search-card.all.click&vd_source=2ef7e92f2d522c31939f486aea77a19e)
   * 关于google云游戏平台stadia关停的讨论，云游戏是好是坏，还是判断不出来。
 
 
 <br>
 
-### 4. [云游戏白皮书 (HUAWEI & 顺网科技) (2019.12)](https://www-file.huawei.com/-/media/corporate/pdf/ilab/2019/cloud_game_whitepaper.pdf)
+###  2.4. <a name='HUAWEI2019.12https:www-file.huawei.com-mediacorporatepdfilab2019cloud_game_whitepaper.pdf'></a>4. [云游戏白皮书 (HUAWEI & 顺网科技) (2019.12)](https://www-file.huawei.com/-/media/corporate/pdf/ilab/2019/cloud_game_whitepaper.pdf)
   * 大体方案结构与1的内容相似，内容写的更好一些，之后详细看一下，TODO
   * ![](./images/cloud_game_whitepaper_201912_catalog.JPG)
   * 云游戏商业可行性与商业模式分析
@@ -129,7 +147,7 @@
 
 <br>
 
-### 5.[全球云游戏产业深度观察及趋势研判研究报告 (2022年)](https://pdf.dfcfw.com/pdf/H3_AP202203181553448373_1.pdf?1647636501000.pdf)
+###  2.5. <a name='https:pdf.dfcfw.compdfH3_AP202203181553448373_1.pdf1647636501000.pdf'></a>5.[全球云游戏产业深度观察及趋势研判研究报告 (2022年)](https://pdf.dfcfw.com/pdf/H3_AP202203181553448373_1.pdf?1647636501000.pdf)
    * ![](./images/cloud_gaming_research_report_2022_catalog.JPG)
    * 云游戏市场规模分析
    * ![](./images/cloud_gaming_research_report_2022_%E4%B8%AD%E5%9B%BD%E4%BA%91%E6%B8%B8%E6%88%8F%E5%B8%82%E5%9C%BA%E6%94%B6%E5%85%A5%E7%BB%9F%E8%AE%A1%E5%8F%8A%E9%A2%84%E6%B5%8B.JPG)
@@ -148,3 +166,47 @@
    * 中国云游戏案例—云天畅想
    * ![](./images/cloud_gaming_research_report_2022_%E4%BA%91%E5%A4%A9%E7%95%85%E6%83%B3.JPG)
    * 蔚领时代作为《云·原神》的独家云游戏服务供应商，用其自主研发的创新云计算架构以及音视频实时编解码、应用容器多开技术、自动降码及基于 MRSP 的弱网优化等核心技术，结合阿里云、金山云等公有云的优质底层 IaaS 资源，搭建了一套一站式的云游戏 PaaS平台，为用户提供“超高清、低延时”的良好游戏体验。《云·原神》带来的一系列市场口碑效应，也极大的证明了蔚领时代团队的研发与技术实力。
+   * 场景层面：多场景研究全面推进，直播领域率先突破
+     * 在国外，大型互动直播游戏表现最佳
+       * [《Rival Peak》是未来游戏的样子么？](https://zhuanlan.zhihu.com/p/346926937) 
+         * 大家之前还只是用弹幕去玩一个已经玩过的游戏，那能不能有一款新的游戏就是为了互动玩法而生呢？
+         * 《Rival Peak》将活动场景设置在一座山林中，12 名由 AI 驱动的参赛者需要团结协作、解决谜题，力争生存到最后。而这些参赛者会做出何种行为，则完全由在线观众所决定。在这场没有脚本的直播中，观众才是真正的幕后推手。
+       * [云游戏+ AI +直播，《Rival Peak》是否会成为未来游戏的雏形？](https://zhuanlan.zhihu.com/p/364106437)
+   * 入口层面：多元化发展趋势明显，大屏端布局加速落地
+   * 腾讯云渲染
+     * 云上南头古城
+       * [文旅元宇宙：云上漫游南头古城](https://www.bilibili.com/video/BV1DG411n7i7/?spm_id_from=333.337.search-card.all.click&vd_source=2ef7e92f2d522c31939f486aea77a19e)
+       * [一键“云”上漫游南头古城是一种什么体验？腾讯云云渲染厉害了！](https://cloud.tencent.com/developer/article/1827177)
+       * [小程序-云上南头古城](https://www.bilibili.com/video/BV1KK411X7WB/?spm_id_from=333.337.search-card.all.click&vd_source=2ef7e92f2d522c31939f486aea77a19e)
+     * 三星堆云考古 
+
+
+<br>
+
+###  2.6. <a name='http:www.gamelook.com.cn202301506925'></a>6. [云游戏报告：2022年中国云游戏市场规模45亿元，月活用户达9600万](http://www.gamelook.com.cn/2023/01/506925)
+  * 行业发展逐渐明朗，预计2024年市场规模破百亿
+  * 中国厂商抓住了“内容为王”这个硬道理，将大量高人气游戏云化，除了《云·原神》，腾讯、网易也都推出了如《云·天涯明月刀手游》《云·梦幻西游》《云·阴阳师》等产品，通过头部产品的影响力，带动大量玩家尝试并使用云游戏
+  * 报告显示，2022年中国热门云游戏TOP10分别是《原神》《迷你世界》《崩坏3》《明日方舟》《英魂之刃》《保卫萝卜4》《汤姆猫跑酷》《球球大作战》《最终幻想15》以及《航海王热血航线》。
+  * 手机是主要应用场景，云游戏更受年轻人喜爱
+  * 报告指出，根据调研数据显示，延时高、画面不流畅、卡顿等仍是主要痛点，有43.6%的玩家在使用中曾遇到过这样的问题，其次则是免费时间较短、排队时间较久等问题。
+
+
+<br>
+
+###  2.7. <a name='https:36kr.comp2004935525322886'></a>7. [2022年中国云游戏行业研究报告](https://36kr.com/p/2004935525322886)
+
+
+<br>
+
+###  2.8. <a name='https:imgtec.eetrend.comblog2021100114350.html'></a>8. [云游戏技术的过去、现在，和未来](https://imgtec.eetrend.com/blog/2021/100114350.html)
+
+
+<br> 
+
+###  2.9. <a name='Metahttps:www.infoq.cnarticleoi5qfvo5nuchezscpaib'></a>9.[揭秘 Meta 的云游戏基础设施](https://www.infoq.cn/article/oi5qfvo5nuchezscpaib)
+  * 原文：[Under the hood: Meta’s cloud gaming infrastructure](https://engineering.fb.com/2022/06/09/web/cloud-gaming-infrastructure/)
+
+
+<br>
+
+###  2.10. <a name='https:cloud.tencent.comdeveloperarticle1700745'></a>10.[技术解码 | 云游戏实现技术解析](https://cloud.tencent.com/developer/article/1700745)
