@@ -10,20 +10,30 @@
 ## [NVIDIA BlueField-3 DPU]()
 * NVIDIA BlueField-3 是首款以线速处理软件定义网络、存储和网络安全的 DPU，速度可达 <font color='red'>400 Gb/s</font>。BlueField-3 将强大的计算能力、高速网络和广泛的可编程性相结合，为要求苛刻的工作负载提供<font color='red'>软件定义的硬件加速解决方案</font>。从加速 AI 到混合云和高性能计算，再到 5G 无线网络，BlueField-3 重新定义了可能性的艺术。
 
-[NVIDIA BLUEFIELD-3 DPU 可编程片上数据中心基础设施](https://www.nvidia.cn/content/dam/en-zz/Solutions/networking/data-processing-unit/datasheets/NVIDIA-BLUEFIELD-3-DPU%E5%8F%AF%E7%BC%96%E7%A8%8B%E7%89%87%E4%B8%8A%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD.pdf)
+### [NVIDIA BLUEFIELD-3 DPU 可编程片上数据中心基础设施](https://www.nvidia.cn/content/dam/en-zz/Solutions/networking/data-processing-unit/datasheets/NVIDIA-BLUEFIELD-3-DPU%E5%8F%AF%E7%BC%96%E7%A8%8B%E7%89%87%E4%B8%8A%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD.pdf)
+* NVIDIA® BlueField®-3 数据处理器（DPU）是第三代片上数据中心基础设施，支持客户组织从云到核心数据中心再到边缘计算，构建软件定义硬件加速的 IT 基础设施。通过 400Gb/s以太网或 NDR 400Gb/s InfiniBand 网络连接，BlueField-3 DPU 可以卸载、加速和隔离软件定义的网络、存储、安全和管理功能，从而显著提高数据中心的性能、效率和安全性。
+* BlueField-3 在 I/O 路径中提供强大的计算能力和多种可编程加速引擎，能够满足性能要求严苛的应用程序的基础设施需求，同时可通过 NVIDIA DOCA™ 软件框架实现完全的软件向后兼容性。
+* BlueField-3 DPU 将传统计算环境转换为安全、加速的虚拟私有云，使客户组织能够在安全的多租户环境下运行应用工作负载。BlueField-3 将数据中心基础设施与业务应用解耦，可提升数据中心安全性、简化运营并降低总体拥有成本。BlueField-3 支持 NVIDIA网络计算技术，助力新一代云原生超级计算平台，原生支持多节点租户隔离，提供极佳的裸机性能。
 
-[NVIDIA BLUEFIELD-2 DPU 芯片上的数据中心基础架构](https://www.nvidia.cn/content/dam/en-zz/Solutions/networking/data-processing-unit/datasheets/NVIDIA-Bluefield-2-DPU%E8%8A%AF%E7%89%87%E4%B8%8A%E7%9A%84%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84.pdf)
+
+### [NVIDIA BLUEFIELD-2 DPU 芯片上的数据中心基础架构](https://www.nvidia.cn/content/dam/en-zz/Solutions/networking/data-processing-unit/datasheets/NVIDIA-Bluefield-2-DPU%E8%8A%AF%E7%89%87%E4%B8%8A%E7%9A%84%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84.pdf)
 * BlueField-2 将行业领先的 NVIDIA Mellanox® ConnectX-6® Dx 网络适配器与 Arm®
 核心阵列相结合，可提供具有完整软件可编程性的专用硬件加速引擎。每台服务器
 边缘都配备经加速的 BlueField-2，可快速处理关键基础架构任务，提高数据中心效率。
 ![](./images/bf2_dpu_2_hhhl.JPG)
 ![](./images/bf2_dpu_2_fhhl.JPG)
 ![](./images/bf2_dpu_2_ocp3.0.JPG)
+![](./images/bf2_dpu_2_port_func.JPG)
 * PCI-E接口的LP和FHHL是什么意思?
   * [PCI-E接口的LP和FHHL是什么意思?](https://zhidao.baidu.com/question/1546566821460840467.html)
     * FHHL即Full Hight Half Length，代表全高半长；
     * FHFL即Full Hight Full Length，代表全高全长；
     * 全高=111.28mm，半高=68.9mm；全长=312mm，半长=167.65mm
+* [OCP3.0是个啥?](https://blog.csdn.net/xiaoqi976633690/article/details/122216280)
+  * [OCP3.0是个啥?](https://blog.csdn.net/xiaoqi976633690/article/details/122216280)
+    * 具体请参见上述链接。
+    * OCP NIC 3.0规范支持两种基本卡尺寸:小尺寸Small Form Factor(SFF)和大尺寸Large Form Factor(LFF)。
+    * SFF最多支持16 lane PCIe ，而LFF最多支持32 lane PCIe。
 * 主板上的南北桥是什么东西？
   * [主板上的南北桥是什么东西？](https://www.zhihu.com/question/66881178)
     * 大体上说：北桥负责与CPU通信，并且连接高速设备（内存/显卡），并且与南桥通信；南桥负责与低速设备（硬盘/USB）通信，时钟/BIOS/系统管理/旧式设备控制，并且与北桥通信。
@@ -31,7 +41,9 @@
     * 系统设计上将 I/O 工作层层转包。CPU 把比较慢的 bus 转包给北桥，北桥把更慢的 bus 转包给南桥，南桥把更更慢的 bus 转包给 Super I/O。
     * ![](./images/dpu_north_south_bridge.jpg)
   * [南北桥芯片](https://baike.baidu.com/item/%E5%8D%97%E5%8C%97%E6%A1%A5%E8%8A%AF%E7%89%87/8657477)
-  * 
+
+### [NVIDIA 融合加速器](https://www.nvidia.cn/data-center/products/converged-accelerator/)
+* 
 
 
 
