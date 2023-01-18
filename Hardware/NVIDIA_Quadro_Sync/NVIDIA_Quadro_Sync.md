@@ -5,14 +5,13 @@
 ***
 
 ## [NVIDIA Quadro Sync](https://www.nvidia.com/en-us/design-visualization/solutions/quadro-sync/)
-
-
-***
-<br><br>
-***
-
-## [QUADRO SYNC II USER GUIDE](https://images.nvidia.com/content/quadro/product-literature/user-guides/Quadro-Sync-II-User-Guide-v06.pdf)
-
+* 官方主页：[NVIDIA Quadro Sync](https://www.nvidia.com/en-us/design-visualization/solutions/quadro-sync/)
+* 中文官方主页：[NVIDIA Quadro Sync](https://www.nvidia.cn/design-visualization/solutions/quadro-sync/)
+  * 利用 NVIDIA® Quadro® Sync 解决方案，用户可以在多台显示器上实现流畅同步，打造炫目的超高分辨率画面，来满足各行各业的可视化和展示需求。
+  * Quadro Sync 板卡的设计充分考虑到灵活性和可扩展性，能够连接特定的 NVIDIA RTX 和 NVIDIA Quadro GPU，后者可与其所连接的显示器或投影仪同步。Quadro Sync 在这些同步的显示器和投影仪上还支持 NVIDIA Mosaic 技术，提供了一种扩展任意应用分辨率的简单方式。
+* [QUADRO SYNC II USER GUIDE](https://images.nvidia.com/content/quadro/product-literature/user-guides/Quadro-Sync-II-User-Guide-v06.pdf)
+  * 具体信息请参见这篇用户指导
+![](./images/quadro_sync_homepage_chin_support.JPG)
 
 ***
 <br><br>
@@ -39,6 +38,16 @@
   * 基于Quadro Sync II 同步卡的NVIDIA Quadro Sync方案可以用灵活且可扩展的方式部署超高分辨率显示系统。这样用户只需借助一个系统就能驱动由多达32个4K显示器组成的视频墙，用以播放广播画面。同时，利用相同规模的可视化集群，飞行模拟程序可以从高清分辨率投影仪提升至四路输入的4K投影仪。而对研究实验室来说，仅使用一个系统即可打造出由多达32个显示器组成的3D立体显示墙。这将使得科研、设计渲染甚至是工业研究变得无往不利。
   
 ![](./images/quadro_sync_chin_sync.jpg)
+
+
+***
+<br><br>
+***
+
+## Quadro SYNC显示信号帧同步卡多屏锁相mosaic马赛克多显卡跨屏拼接SLI卡
+* 这个链接所使用的卡还是上一代的Quadro Sync卡
+* 具体信息可参见上述链接
+![](./images/quadro-sync-1-connector.jpg)
 
 ## 
 
