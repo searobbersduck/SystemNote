@@ -41,6 +41,15 @@ NVIDIA RTX 和 NVIDIA Quadro 专业可视化产品提供强大的 Mosaic 技术�
 <br><br>
 ***
 
+
+## [NVIDIA MOSAIC](https://www.nvidia.cn/design-visualization/solutions/nvidia-mosaic-technology/)
+* 是上述官网主页的中文版本
+
+***
+<br><br>
+***
+
+
 ## [NVIDIA RTX Desktop Manager](https://www.nvidia.com/en-us/design-visualization/software/rtx-desktop-manager/)
 
 这部分没什么实质性的内容，需要的时候可以直接看网页的链接。
