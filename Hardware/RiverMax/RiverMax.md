@@ -6,6 +6,11 @@
 * 申请使用后，点击"Get Started"进入如下页面：[Rivermax Getting Started](https://developer.nvidia.com/networking/rivermax-getting-started)
 
 
+<br><br>
+
+### [NVIDIA Rivermax 加速一切流数据传输](https://developer.nvidia.com/zh-cn/blog/streaming-everything-with-rivermax/)
+* 这篇blog暂时看来没啥参考价值，废话连篇。
+
 
 <br><br>
 
@@ -95,4 +100,10 @@
           * “高”配置文件 High profile：多应用于广电和存储领域。使用“高”配置文件可比“主要”配置文件降低 10% 的码率。
 
 
+<br><br>
+
+4. [PCI-E]()
+   * [M.2硬盘与PCI-E硬盘的区别](https://www.crucial.cn/articles/about-ssd/m2-vs-pcie)
+     * PCI Express的接口根据总线位宽不同，还可分为X1、X4、X8和X16。目前使用较多的是PCIe X4，市面上流通较多的是PCI-E 2.0版本和3.0版本，对应的X4带宽为16Gbps/32Gbps，折算成传输速率约为2GB/s和3.93GB/s，相比SATA接口，这已经是非常恐怖的速率了。
+     * 
 
