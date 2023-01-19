@@ -37,3 +37,23 @@
     * NVLink
       * 为解决PCI Express下的瓶颈，NVIDIA推出了NVLink，​​可提供更高带宽和更多链路，并可提升多GPU系统配置的可扩展性​​，有效解决互连问题。于2016年发布的P100是搭载NVLink的第一款产品，具有​​160 GB/s​​的带宽，相当于​​PCIe Gen3*16带宽的5倍​​。GTC 2017上发布的V100搭载NVLink 2.0，更是将带宽提升到了​​300 GB/s​​，差不多达到了​​PCIe Gen4*16带宽的5倍​​。而在去年GTC 20中最新发布的NVIDIA A100更是搭载了​​NVLink 3.0​​，单个NVIDIA A100 Tensor核心GPU支持多达12个第三代NVLink连接，​​总带宽为每秒600 GB/s，几乎是PCIe Gen 4带宽的10倍。
       * ![](./images/nvlink_gif.gif)
+
+
+2. [GPU前沿：NVLink与PCIe的对比学习](https://zhuanlan.zhihu.com/p/347353435)
+
+
+
+<br><br><br>
+
+## SDI
+
+1. [SDI, DVI, HDMI, DisplayPort的区别](https://codeantenna.com/a/vZd8HLcQk0)
+   * HDMI（High Definition Multimedia），中文解释就是高清晰度多媒体接口，支持HDCP，主要用于消费类电子产品上。
+     * HDMI接口可以提供高达5Gbps的数据传输带宽，可以传送无压缩的音频信号及高分辨率视频信号，同时无需在信号传送前进行数/模或者模/数转换，可以保证最高质量的影音信号传送。与DVI相比，HDMI可以看成是DVI接口的强化与延伸，HDMI在传输数字视频信号的同时还可以传输数字音频信号（即音频/视频采用同一电缆），并增加了对HDCP的支持，同时提供了更好的DDC可选功能。
+   * DVI（Digital Video Interface），数字视频接口。
+     * DVI接口仅能传输视频数据，无法传输音效信号，如果硬件符合相关规格，此接口也可传输HDCP讯号。
+   * SDI接口是数字分量串行接口(serial digital interface)的首字母缩写。
+     * SDI是专业的视频传输接口，一般用于广播级视频设备中。SDI和HDMI这两个接口都支持无压缩数字视频传输，但HDMI接口要用19根线了传输，SDI用普通的75欧姆同轴线就可以。HDMI目前最长只能传输40米，SDI可以传输120－400米。
+     * HDMI和SDI应用的领域不同，不会产生冲突，HD－SDI只能做到1080I，现在最新版本的是3G－SDI，可以做到1080P。
+   * DisplayPort也是一种高清数字显示接口标准，可以连接电脑和显示器，也可以连接连接电脑和家庭影院。
+     * HDMI的出现取代了模拟型号视频，而DisplayPort的出现则取代的是DVI和VGA接口。
