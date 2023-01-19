@@ -25,6 +25,10 @@
     * ![](./images/pcie_history.jpg)
 
 
+5. [M.2硬盘与PCI-E硬盘的区别](https://www.crucial.cn/articles/about-ssd/m2-vs-pcie)
+     * PCI Express的接口根据总线位宽不同，还可分为X1、X4、X8和X16。目前使用较多的是PCIe X4，市面上流通较多的是PCI-E 2.0版本和3.0版本，对应的X4带宽为16Gbps/32Gbps，折算成传输速率约为2GB/s和3.93GB/s，相比SATA接口，这已经是非常恐怖的速率了。
+
+
 <br><br><br>
 
 ## NVLINK
