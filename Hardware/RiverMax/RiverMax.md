@@ -1,10 +1,19 @@
 ## [NVIDIA Rivermax SDK](https://developer.nvidia.com/networking/rivermax)
 
-参考链接：[NVIDIA Rivermax SDK](https://developer.nvidia.com/networking/rivermax)
+### 参考链接：[NVIDIA Rivermax SDK](https://developer.nvidia.com/networking/rivermax)
 * 需要先申请使用
 * ![](./images/rivermax_get_started.JPG)
 * 申请使用后，点击"Get Started"进入如下页面：[Rivermax Getting Started](https://developer.nvidia.com/networking/rivermax-getting-started)
-* ![](./images/Rivermax_SDK.jpg)
+* [NVIDIA Rivermax Media Library User Manual v12](https://developer.download.nvidia.com/networking/secure/Rivermax-Linux-SDK/Installation-Package/Version-1.20.x/docs/Rivermax_Media_Library_User_Manual-v12.pdf?wTI_K5vfHKqZtabQb_rWDgRuFt_Krucg118ZZY15lDesvcRe3i-Azzv0_Uhu79mUOvp0ZJ6M6ZS-Rt6X0BuMnpOBpyaTqyhBpsACla4JCeleJJEEvZpK96y7iILCyl8eEjmsW2dJ--W1mM5jiUjfQJwKJwBj46VWUUF_EkZqzSo2tIj4wBQtrOAJqahr2yt2EICsEfPEd3Tjse_zmx7P95YAOZ7fAH9hqc_jGcvMUyR-f49dz_Jg&t=eyJscyI6ImdzZW8iLCJsc2QiOiJodHRwczovL3d3dy5nb29nbGUuY29tLmhrLyIsIm5jaWQiOiJzby1saW5rLTc1Mjk3OC12dDIwIn0=)
+  * 这是sdk手册
+* Powerful & Flexible SDK
+  * ![](./images/Rivermax_SDK.jpg)
+
+
+<br>
+
+### [NVIDIA Rivermax Product Presentation](https://nvidia.highspot.com/items/5fae121e628ba212df8ac7d4?lfrm=srp.0#36)
+  * 重要的内容，这一部分要详细看。
 
 
 <br><br>

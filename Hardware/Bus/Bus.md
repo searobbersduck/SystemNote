@@ -57,7 +57,17 @@
    * DVI（Digital Video Interface），数字视频接口。
      * DVI接口仅能传输视频数据，无法传输音效信号，如果硬件符合相关规格，此接口也可传输HDCP讯号。
    * SDI接口是数字分量串行接口(serial digital interface)的首字母缩写。
-     * SDI是专业的视频传输接口，一般用于广播级视频设备中。SDI和HDMI这两个接口都支持无压缩数字视频传输，但HDMI接口要用19根线了传输，SDI用普通的75欧姆同轴线就可以。HDMI目前最长只能传输40米，SDI可以传输120－400米。
+     * SDI是专业的视频传输接口，一般用于广播级视频设备中。SDI和HDMI这两个接口都支持无压缩数字视频传输，但HDMI接口要用19根线了传输，SDI用普通    的75欧姆同轴线就可以。HDMI目前最长只能传输40米，SDI可以传输120－400米。
      * HDMI和SDI应用的领域不同，不会产生冲突，HD－SDI只能做到1080I，现在最新版本的是3G－SDI，可以做到1080P。
    * DisplayPort也是一种高清数字显示接口标准，可以连接电脑和显示器，也可以连接连接电脑和家庭影院。
      * HDMI的出现取代了模拟型号视频，而DisplayPort的出现则取代的是DVI和VGA接口。
+
+
+<br><br>
+
+## SLI
+1. [科普讲堂——显卡SLI](https://zhuanlan.zhihu.com/p/48590115)
+    * SLI，全称为Scalable Link Interface，中文简称速力，是一种可把两张到四张显卡连在一起，作单一输出使用的技术，从而获得更强的图像处理能力的效果。
+    * 这项技术最初被称为Scan Line Interleave，于1998年由3dfx公司推出，应用在Voodoo 2显卡上。2004年， NVIDIA再次推出此技术，应用在以PCI Express总线为基础的计算机上。
+    * <font color='red'>似乎现在好像用处不大了</font>
+
