@@ -9,6 +9,7 @@
   * 它可以受VR跟踪系统输入的驱动，这样显示屏中的视点就可以准确地实时跟随移动观众的视点。
   * 它足够灵活，可以支持任意相对方向的任意数量的屏幕，并可以在任意数量的项目中轻松复用。
 * [Explore nDisplay technology: limitless scaling of real-time content](https://www.unrealengine.com/en-US/tech-blog/explore-ndisplay-technology-limitless-scaling-of-real-time-content)
+  * 中文版本：[探究nDisplay技术：实时内容的无限制缩放](https://www.unrealengine.com/zh-CN/tech-blog/explore-ndisplay-technology-limitless-scaling-of-real-time-content)
   * To display such a large volume of real-time pixels, the rendering of each frame needs to be distributed over a network of machines—with each machine rendering just a section of a frame—and then each frame must be displayed with precise matching of section edges, all at exactly the same time.
   * To facilitate such a complex process, Epic Games has introduced nDisplay technology for Unreal Engine. nDisplay combines network configuration data, details about display mechanisms, distribution of rendering, and image display for large surfaces and screens.
   * ![](./images/ue_ndisplay1.jpg)
@@ -36,7 +37,14 @@
 * 
 
 
-## 
+## [Rendering to Multiple Displays with nDisplay](https://docs.unrealengine.com/5.0/en-US/rendering-to-multiple-displays-with-ndisplay-in-unreal-engine/)
+
+## [nDisplay Overview](https://docs.unrealengine.com/5.0/en-US/ndisplay-overview-for-unreal-engine/)
+
+## [nDisplay 3D Config Editor](https://docs.unrealengine.com/5.0/en-US/ndisplay-3d-config-editor-in-unreal-engine/)
+* [nDisplay 3D配置编辑器](https://docs.unrealengine.com/4.27/zh-CN/WorkingWithMedia/IntegratingMedia/nDisplay/ConfigurationViewer/)
+* nDisplay Config Asset: This asset defines the computers that make up your cluster network, the characteristics of the windows and viewports you want the Unreal Engine to render on each computer, the display device's topology and configuration, the parts of the virtual world each viewport should render, the types of input devices you want to accept, and more.
+
 
 |||
 |:-:|:-:|

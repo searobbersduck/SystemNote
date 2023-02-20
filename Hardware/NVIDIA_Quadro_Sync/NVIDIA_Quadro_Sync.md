@@ -56,7 +56,7 @@
 
 ## [基于NVIDIA的nDisplay同步方案——如何为虚拟制片设置nDisplay与NVIDIA GPU同步](https://docs.unrealengine.com/4.27/zh-CN/WorkingWithMedia/IntegratingMedia/nDisplay/Synchronization/ndisplay-synchronization-with-nvidia/)
 * 为了避免LED屏幕之间出现画面撕裂现象，同时避免摄像机在各个LED屏幕上拍到不一致的内容，你必须确保nDisplay群集节点（即电脑）实现同步。
-* 
+
 
 
 ## 
