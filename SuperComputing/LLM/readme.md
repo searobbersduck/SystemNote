@@ -30,3 +30,8 @@
      * 基础设施层：为生成人工智能模型运行培训和推断工作负载的云平台和硬件制造商。
 7. [大模型训练一次200-1200万美元！ChatGPT多烧钱？](https://wallstreetcn.com/articles/3681850)
 
+8. [NVIDIA Merlin Distributed-Embeddings轻松快速训练TB 级推荐模型](https://developer.nvidia.com/zh-cn/blog/fast-terabyte-scale-recommender-training-made-easy-with-nvidia-merlin-distributed-embeddings/)
+9. [ChatGPT到底需要多少算力？未来的GPT-4还有指数型上升](https://xuangubao.cn/article/1023819)
+10. [AI与城市｜Midjourney：建筑版ChatGPT设计的超现实世界 ](https://www.sohu.com/a/638649687_121123925)
+
+
