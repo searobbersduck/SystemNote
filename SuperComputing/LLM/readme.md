@@ -35,3 +35,30 @@
 10. [AI与城市｜Midjourney：建筑版ChatGPT设计的超现实世界 ](https://www.sohu.com/a/638649687_121123925)
 
 
+<br><br>
+
+## AGI
+
+1. [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
+
+
+
+<br><br>
+
+## PROMPT
+
+1. [最新综述：基于语言模型提示学习的推理](https://posts.careerengine.us/p/63b65f47aed7e93d56c43faf?from=latestPostSidePanel)
+2. [有了Chain of Thought Prompting，大模型能做逻辑推理吗？](https://zhuanlan.zhihu.com/p/589087074)
+3. [谷歌提出Flan-T5，一个模型解决所有NLP任务](https://cloud.tencent.com/developer/article/2208141)
+
+
+<br><br>
+
+## PRETRAINED
+
+1. [GLM-130B: An Open Bilingual Pre-Trained Model](https://github.com/THUDM/GLM-130B)
+  * [GLM-130B：开源的双语预训练模型](https://models.aminer.cn/glm-130b/)
+    * GLM-130B 是一个开源开放的双语（中文和英文）双向稠密模型，拥有 1300 亿参数，模型架构采用通用语言模型（GLM1）。它旨在支持在一台 A100（40G * 8） 或 V100（32G * 8）服务器上对千亿规模参数的模型进行推理。截至 2022 年 7 月 3 日，GLM-130B 已完成 4000 亿个文本标识符（中文和英文各 2000 亿）的训练；
+    * 快速推理：支持用一台 A100 服务器使用 SAT 和 FasterTransformer 进行快速推理（提速最高可达 2.5 倍）。
+
+
