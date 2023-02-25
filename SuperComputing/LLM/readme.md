@@ -51,6 +51,8 @@
 2. [有了Chain of Thought Prompting，大模型能做逻辑推理吗？](https://zhuanlan.zhihu.com/p/589087074)
 3. [谷歌提出Flan-T5，一个模型解决所有NLP任务](https://cloud.tencent.com/developer/article/2208141)
 
+4. [Multimodal Chain-of-Thought Reasoning in Language Models]()
+
 
 <br><br>
 
@@ -61,4 +63,31 @@
     * GLM-130B 是一个开源开放的双语（中文和英文）双向稠密模型，拥有 1300 亿参数，模型架构采用通用语言模型（GLM1）。它旨在支持在一台 A100（40G * 8） 或 V100（32G * 8）服务器上对千亿规模参数的模型进行推理。截至 2022 年 7 月 3 日，GLM-130B 已完成 4000 亿个文本标识符（中文和英文各 2000 亿）的训练；
     * 快速推理：支持用一台 A100 服务器使用 SAT 和 FasterTransformer 进行快速推理（提速最高可达 2.5 倍）。
 
+2. [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)
+   * github: [facebookresearch/llama](https://github.com/facebookresearch/llama)
+   * [这是Meta版ChatGPT雏形？开源、一块GPU就能跑，1/10参数量打败GPT-3](https://redian.news/wxnews/284622)
+   * 
 
+
+<br>
+
+***
+
+<br>
+
+
+## Inference
+
+
+1. [FlexGen](https://github.com/FMInference/FlexGen)
+   * [跑ChatGPT体量模型，从此只需一块GPU：加速百倍的方法来了](https://www.51cto.com/article/747106.html)
+
+<br>
+
+***
+
+<br>
+
+## ECONOMICS
+
+1. [The Economics of Large Language Models](https://sunyan.substack.com/p/the-economics-of-large-language-models)
