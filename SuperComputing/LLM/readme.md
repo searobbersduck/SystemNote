@@ -66,7 +66,15 @@
 2. [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)
    * github: [facebookresearch/llama](https://github.com/facebookresearch/llama)
    * [这是Meta版ChatGPT雏形？开源、一块GPU就能跑，1/10参数量打败GPT-3](https://redian.news/wxnews/284622)
-   * 
+     * LLaMA（Large Language Model Meta AI）
+     * 最大的 650 亿参数的 LLaMA 模型可以媲美谷歌的 Chinchilla-70B 和 PaLM-540B。
+     * 为了提高模型性能，Meta 在更多的 token 上进行了训练：在 1.4 万亿 token 上训练了 LLaMA 65B 和 LLaMA 33B，最小的 LLaMA 7B 也用到了 1 万亿 token。
+     * Hoffmann et al. (2022) 最近的工作表明，在给定的计算预算下，最好的性能不是由最大的模型实现的，而是由在更多的数据上训练的小模型实现的。
+     * Hoffmann et al. (2022) 提出的 scaling laws 的目标是确定在特定的训练计算预算下，如何最好地缩放数据集和模型大小。
+     * 尽管 Hoffmann et al. (2022) 建议在 200B 的 tokens 上训练一个 10B 的模型，但研究者发现 7B 的模型的性能甚至在 1T 的 tokens 之后还能继续提高。
+     * 与 Chinchilla、PaLM 或 GPT-3 不同，该模型只使用公开可用的数据，使得这项工作与开源兼容，而大多数现有模型依赖的数据要么不公开可用、要么没有记录.
+     * 整个训练数据集在 token 化之后大约包含 1.4T 的 token。对于大多数训练数据，每个 token 在训练期间只使用一次，但维基百科和 Books 域除外，我们在这两个域上执行大约两个 epoch。
+     * 
 
 
 <br>
@@ -75,6 +83,17 @@
 
 <br>
 
+
+## Training
+
+1. [DeepSpeed: Extreme-scale model training for everyone](https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/)
+
+
+<br>
+
+***
+
+<br>
 
 ## Inference
 
