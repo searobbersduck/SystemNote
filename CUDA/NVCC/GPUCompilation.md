@@ -1,3 +1,10 @@
+# [The CUDA Compilation Trajectory](https://docs.nvidia.com/cuda/archive/11.6.1/cuda-compiler-driver-nvcc/index.html#cuda-compilation-trajectory)
+
+![](./images/GPUCompilation/cuda_compilation_trajectory.JPG)
+* CUDA compilation works as follows: the input program is preprocessed for device compilation compilation and is compiled to CUDA binary (cubin) and/or PTX intermediate code, which are placed in a fatbinary. The input program is preprocessed once again for host compilation and is synthesized to embed the fatbinary and transform CUDA specific C++ extensions into standard C++ constructs. Then the C++ host compiler compiles the synthesized host code with the embedded fatbinary into a host object. The exact steps that are followed to achieve this are displayed in Figure 1.
+* The embedded fatbinary is inspected by the CUDA runtime system whenever the device code is launched by the host program to obtain an appropriate fatbinary image for the current GPU.
+* CUDA programs are compiled in the whole program compilation mode by default, i.e., the device code cannot reference an entity from a separate file. In the whole program compilation mode, device link steps have no effect. For more information on the separate compilation and the whole program compilation, see Using Separate Compilation in CUDA.
+
 # [GPU Compilation](https://docs.nvidia.com/cuda/archive/11.6.1/cuda-compiler-driver-nvcc/index.html#gpu-compilation)
 
 <br>
@@ -86,6 +93,8 @@ virtal architecture和real architecture的明白方案相同：
     ```
 
 
-## 常用属于
+## Reference 
 
-ISA: 
+1. [NVCC](https://docs.nvidia.com/cuda/archive/11.6.1/cuda-compiler-driver-nvcc/index.html)
+2. [CUDA Compilation](https://leimao.github.io/blog/CUDA-Compilation/)
+3. 
