@@ -2,6 +2,11 @@
 
 pdf: [NVIDIA TensorRT](https://docs.nvidia.com/deeplearning/tensorrt/pdf/TensorRT-Developer-Guide.pdf)
 
+
+## Tutorials
+1. [The TensorRT Ecosystem](https://docs.nvidia.com/deeplearning/tensorrt/quick-start-guide/index.html#run-engine-python)
+2. [TensorRT/quickstart/SemanticSegmentation/tutorial-runtime.ipynb](https://github.com/NVIDIA/TensorRT/blob/main/quickstart/SemanticSegmentation/tutorial-runtime.ipynb)
+
 <br>
 
 ***
@@ -34,6 +39,28 @@ pip install cuda-python
 
 <br>
 
+
+**错误**
+```
+python3 demo_img2img.py "photorealistic new zealand hills" --hf-token=$HF_TOKEN -v
+Traceback (most recent call last):
+  File "demo_img2img.py", line 22, in <module>
+    from img2img_pipeline import Img2ImgPipeline
+  File "/workspace/code/acclib/TensorRT/demo/Diffusion/img2img_pipeline.py", line 19, in <module>
+    import nvtx
+ModuleNotFoundError: No module named 'nvtx'
+```
+**解决方案**
+```
+pip install nvtx
+```
+
+
+<br>
+
+***
+
+<br>
 
 **错误**
 ```
